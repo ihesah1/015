@@ -1,0 +1,20 @@
+
+p {
+ color: lightgray;
+
+}
+div {
+    width: 160px;
+    height: 80px;
+    padding: 20px;
+    
+    background-color: springgreen;
+    color:black;
+  }
+  
+  
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px; }
